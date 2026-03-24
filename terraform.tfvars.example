@@ -1,0 +1,2 @@
+# Copy this file to terraform.tfvars and fill in your values
+project_id = "my-gcp-project-id"
